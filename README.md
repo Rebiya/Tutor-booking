@@ -1,3 +1,8 @@
+
+
+````md
+[Live Website 🚀](https://eduglow.netlify.app/)
+
 # RebiyaMusema Tutoring Website
 
 A professional tutoring website built with React, Vite, and Tailwind CSS. The website features a modern design with a gold, black, and white color scheme, and includes sections for services, testimonials, and contact information.
@@ -22,27 +27,32 @@ A professional tutoring website built with React, Vite, and Tailwind CSS. The we
 ```bash
 git clone <repository-url>
 cd tutor-booking
-```
+````
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
 
 3. Set up EmailJS:
-   - Create an account at [EmailJS](https://www.emailjs.com/)
-   - Create an email service and template
-   - Replace the following in `src/pages/Contact.jsx`:
-     - `YOUR_SERVICE_ID`
-     - `YOUR_TEMPLATE_ID`
-     - `YOUR_PUBLIC_KEY`
+
+   * Create an account at [EmailJS](https://www.emailjs.com/)
+   * Create an email service and template
+   * Replace the following in `src/pages/Contact.jsx`:
+
+     * `YOUR_SERVICE_ID`
+     * `YOUR_TEMPLATE_ID`
+     * `YOUR_PUBLIC_KEY`
 
 4. Start the development server:
+
 ```bash
 npm run dev
 ```
 
 5. Build for production:
+
 ```bash
 npm run build
 ```
@@ -69,13 +79,13 @@ src/
 
 ## Technologies Used
 
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- EmailJS
-- React Router
-- Heroicons
+* React
+* Vite
+* Tailwind CSS
+* Framer Motion
+* EmailJS
+* React Router
+* Heroicons
 
 ## License
 
@@ -84,5 +94,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or concerns, please contact:
-- Email: your.email@example.com
-- Phone: +251 XX XXX XXXX
+
+* Email: [rebum.19@gmail.com](mailto:rebum.19@gmail.com)
+* Phone: +251993044432
+
+```
